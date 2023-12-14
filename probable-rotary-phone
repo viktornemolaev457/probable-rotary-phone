@@ -1,0 +1,8 @@
+             zPosition: 2,
+            blendMode: .normal,
+            blur: .none,
+            adjustments: .defaultAdjustments,
+            transforms: .init())],
+            dependencies: [],
+            cornerRadius: 20,
+            background: background,
